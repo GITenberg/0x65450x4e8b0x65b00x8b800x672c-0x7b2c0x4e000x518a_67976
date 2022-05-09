@@ -1,0 +1,34 @@
+_repo: 0x65450x4e8b0x65b00x8b800x672c-0x7b2c0x4e000x518a_67976
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+  editor:
+    agent_name: Wang, Yiming
+    gutenberg_agent_id: '54559'
+    url: http://www.gutenberg.org/2009/agents/54559
+description: ''
+gutenberg_issued: '2022-05-02'
+identifiers:
+  gutenberg: '67976'
+language: zh
+pgterms:marc904: https://catalog.hathitrust.org/Record/009243867
+pgterms:marc905: 20220403095241yiming
+pgterms:marc906: '1926'
+pgterms:marc907: cn
+production_note: Ronald Grenier (This file was produced from images generously made
+  available by the HathiTrust Digital Library.
+publication_note: China :Dadong Shuju,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: '故事新讀本: 第一冊'
+url: http://www.gutenberg.org/ebooks/67976
