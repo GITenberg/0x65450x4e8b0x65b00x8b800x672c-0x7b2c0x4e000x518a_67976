@@ -1,5 +1,8 @@
 _repo: 0x65450x4e8b0x65b00x8b800x672c-0x7b2c0x4e000x518a_67976
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67976-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '54559'
     url: http://www.gutenberg.org/2009/agents/54559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67976#0x65450x4e8b0x65b00x8b800x672c-0x7b2c0x4e000x518a
 gutenberg_issued: '2022-05-02'
 identifiers:
   gutenberg: '67976'
